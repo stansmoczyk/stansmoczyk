@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @stansmoczyk
-- 👀 I’m interested in learning and improving my programming skills
-- 🌱 I’m currently learning Javascript and frontend development
-- 💞️ I’m looking for worrk ass aa frontend developer
+- 👀 I’m looking for work as a frontend developer.
+- 🌱 I’m currently learning Javascript and other frontend development skills.
 - 📫 How to reach me stansmoczyk@gmail.com
 
 <!---
