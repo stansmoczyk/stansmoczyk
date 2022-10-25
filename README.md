@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stansmoczyk
 - 👀 I’m looking for work as a frontend developer.
-- 🌱 I’m currently learning Javascript and other frontend development skills.
+- 🌱 I’m currently learning Javascript, DotNet, C# and other frontend development skills.
 - 📫 How to reach me stansmoczyk@gmail.com
 
 <!---
